@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I have completed my master's degree from the Department of Computer Science, University of Oregon, Eugene, OR. Currently, I am working on Generative Graph Models with [Prof Yu Wang](https://yuwang0103.github.io/). I also have worked on adversarial learning, object detection and tracking, unsupervised domain adaptation, etc. Before UO, I received my B.Sc. degree in Electrical and Electronics Engineering from the University of Dhaka, Bangladesh.
-
+I have completed my master's degree from the Department of Computer Science, University of Oregon, Eugene, OR. Before UO, I received my B.Sc. degree in Electrical and Electronics Engineering from the University of Dhaka, Bangladesh. I have worked on object detection and tracking, pose estimation, adversarial learning, unsupervised domain adaptation, etc.
 
 News
 ======
