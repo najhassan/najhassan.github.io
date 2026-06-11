@@ -23,7 +23,7 @@ News
 
 Education
 ======
-* Computer and Information Science, University of Oregon, (03/2021-present)
+* Computer and Information Science, University of Oregon, (03/2021-2024)
 * Electrical and Electronics Engineering, University of Dhaka, Dhaka, Bangladesh, (2014-2018)
 
 
