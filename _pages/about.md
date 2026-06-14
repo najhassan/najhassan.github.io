@@ -35,8 +35,6 @@ Awards
 
 Work Experience
 ======
-* 12/2024-04/2025:
-  * UO KIND Lab working with [Yu Wang](https://yuwang0103.github.io/)
 
 * 09/2023-09/2024:
   * UO Machine Learning Lab working with [Daniel Lowd](https://ix.cs.uoregon.edu/~lowd/)
